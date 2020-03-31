@@ -1,0 +1,7 @@
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\obj\Debug\course project.csprojResolveAssemblyReference.cache
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\obj\Debug\course project.csproj.CoreCompileInputs.cache
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\bin\Debug\course project.exe.config
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\bin\Debug\course project.exe
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\bin\Debug\course project.pdb
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\obj\Debug\course project.exe
+C:\Users\joeyr\Desktop\Visual Studio Projects\course-project-week-1\course project\course project\obj\Debug\course project.pdb
